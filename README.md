@@ -1,16 +1,24 @@
-## Hi there 👋
+### Hi there, I'm Raid! 👋
 
-<!--
-**Raid1542/Raid1542** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an Informatics Engineering student from Indonesia, passionate about building web applications that are clean, functional, and user-friendly.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+- **Frontend:** React, Next.js, Tailwind CSS
+- **Backend:** Node.js, Express.js
+- **Database:** MySQL
+- **Tools:** Git, VS Code, Linux
+
+---
+
+### 🎯 Currently Learning
+- Deepening JavaScript fundamentals
+- Building academic management systems
+- Exploring AI-assisted development workflows
+
+---
+
+### 📫 Connect with Me
+- 📧 Email: raidathallah036@gmail.com
+- 💼 LinkedIn: [Raid Aqil Athallah](https://www.linkedin.com/in/raid-aqil-684227349/)
